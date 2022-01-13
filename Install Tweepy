@@ -1,0 +1,10 @@
+For all this we will need a Python library called Tweepy for accessing the Twitter API. We can install tweepy in three ways:
+(i) Using pip command: '$ pip install tweepy'
+
+(ii) Clone the GitHub repository of tweepy: 
+$ git clone https://github.com/tweepy/tweepy.git
+$ cd tweepy
+$ pip install
+
+(iii) Cloning the repository directly:
+$ pip install git+https://github.com/tweepy/tweepy.git
